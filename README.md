@@ -2,7 +2,7 @@
 
 ### 📈 Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=whistleJs&theme=transparent&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=whistleJs&theme=dracula&show_icons=true" width="40%" />
 
 ### 🧑🏻‍💻 Skill Stack
 
