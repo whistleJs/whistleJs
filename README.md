@@ -1,8 +1,6 @@
 # 👋
 
-### 📈 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=whistleJs&theme=dracula&show_icons=true" width="40%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=whistleJs&layout=compact&langs_count=6)](https://github.com/whistleJs)
 
 ### 🧑🏻‍💻 Skill Stack
 
